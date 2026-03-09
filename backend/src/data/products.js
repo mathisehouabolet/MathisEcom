@@ -1,0 +1,27 @@
+module.exports = [
+  { id: 0, name: "iPhone 15 Pro", category: "electronique", emoji: "📱", price: 1199, oldPrice: 1399, rating: 4.8, reviews: 2847, badge: "hot", inStock: true },
+  { id: 1, name: "AirPods Pro 2", category: "electronique", emoji: "🎧", price: 279, oldPrice: 349, rating: 4.7, reviews: 1923, badge: "sale", inStock: true },
+  { id: 2, name: "MacBook Air M3", category: "electronique", emoji: "💻", price: 1299, oldPrice: null, rating: 4.9, reviews: 891, badge: "new", inStock: true },
+  { id: 3, name: "Samsung 4K TV", category: "electronique", emoji: "📺", price: 799, oldPrice: 999, rating: 4.6, reviews: 654, badge: "sale", inStock: true },
+  { id: 4, name: "Nike Air Max 90", category: "mode", emoji: "👟", price: 149, oldPrice: 180, rating: 4.5, reviews: 3241, badge: "hot", inStock: true },
+  { id: 5, name: "Veste en Cuir", category: "mode", emoji: "🧥", price: 229, oldPrice: null, rating: 4.3, reviews: 442, badge: "new", inStock: true },
+  { id: 6, name: "Montre Connectée", category: "electronique", emoji: "⌚", price: 399, oldPrice: 499, rating: 4.7, reviews: 1102, badge: "sale", inStock: false },
+  { id: 7, name: "Cafetière Deluxe", category: "maison", emoji: "☕", price: 89, oldPrice: 120, rating: 4.4, reviews: 789, badge: "sale", inStock: true },
+  { id: 8, name: "Robot Aspirateur", category: "maison", emoji: "🤖", price: 449, oldPrice: 599, rating: 4.6, reviews: 1567, badge: "hot", inStock: true },
+  { id: 9, name: "Tapis de Yoga", category: "sport", emoji: "🧘", price: 45, oldPrice: null, rating: 4.2, reviews: 2103, badge: "new", inStock: true },
+  { id: 10, name: "Vélo Électrique", category: "sport", emoji: "🚴", price: 899, oldPrice: 1199, rating: 4.8, reviews: 334, badge: "sale", inStock: true },
+  { id: 11, name: "Parfum Rose Gold", category: "beaute", emoji: "🌹", price: 79, oldPrice: null, rating: 4.5, reviews: 921, badge: "new", inStock: true },
+  { id: 12, name: "Soin Visage Luxury", category: "beaute", emoji: "✨", price: 65, oldPrice: 85, rating: 4.6, reviews: 674, badge: "sale", inStock: true },
+  { id: 13, name: "Roman Bestseller", category: "livres", emoji: "📖", price: 22, oldPrice: null, rating: 4.9, reviews: 5432, badge: "hot", inStock: true },
+  { id: 14, name: "LEGO City 500p", category: "jouets", emoji: "🧱", price: 59, oldPrice: 75, rating: 4.8, reviews: 2341, badge: "sale", inStock: true },
+  { id: 15, name: "Peluche Géante", category: "jouets", emoji: "🧸", price: 35, oldPrice: null, rating: 4.7, reviews: 1089, badge: "new", inStock: true },
+  { id: 16, name: "Lampe de Bureau", category: "maison", emoji: "💡", price: 55, oldPrice: 70, rating: 4.3, reviews: 543, badge: "sale", inStock: true },
+  { id: 17, name: "Casque Gamer", category: "electronique", emoji: "🎮", price: 199, oldPrice: 249, rating: 4.6, reviews: 1876, badge: "hot", inStock: true },
+  { id: 18, name: "Sneakers Rétro", category: "mode", emoji: "👠", price: 89, oldPrice: null, rating: 4.4, reviews: 762, badge: "new", inStock: true },
+  { id: 19, name: "Haltères 10kg", category: "sport", emoji: "🏋️", price: 49, oldPrice: 65, rating: 4.5, reviews: 1240, badge: "sale", inStock: true },
+  { id: 20, name: "Drone Mini", category: "electronique", emoji: "🚁", price: 349, oldPrice: 449, rating: 4.4, reviews: 567, badge: "sale", inStock: false },
+  { id: 21, name: "Blender Pro", category: "maison", emoji: "🥤", price: 129, oldPrice: 159, rating: 4.7, reviews: 892, badge: "hot", inStock: true },
+  { id: 22, name: "Livre de Cuisine", category: "livres", emoji: "👨‍🍳", price: 28, oldPrice: null, rating: 4.6, reviews: 1543, badge: "new", inStock: true },
+  { id: 23, name: "Vélo Statique", category: "sport", emoji: "🚵", price: 299, oldPrice: 399, rating: 4.5, reviews: 430, badge: "sale", inStock: true }
+];
+
